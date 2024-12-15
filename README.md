@@ -1,6 +1,7 @@
 hello world
 hello world
 v1
+v2
 <<<<<<< HEAD
 =======
 hello world
